@@ -1,10 +1,10 @@
-# Projeto:
+# Descrição do projeto:
 Criar um framework genérico que agenda uma tarefa e notifica o resultado da execução.
 
 # Requisitos:
 - O agendamento deverá ser executado a partir de uma CRON;
 - Deverá ser independente, extensível e facilmente integrável a novos programas;
-- As notificações podem ser enviadas por e-mail, SMS, facebook, etc;
+- Notificar sobre o resultado da execução;
 - Criar um programa para demonstrar o funcionamento do framework;
 
 # O que será avaliado:
